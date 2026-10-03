@@ -1,49 +1,39 @@
-<h1 align="center">Hey, I'm Saket 👋</h1>
-<h3 align="center">🚀 Founder @ Volzo & Volzo Charging | Building India's EV Future</h3>
+# Hi, I'm Saket
 
----
+I'm a Third-year Electronics Engineering student at RGIPT and the co-founder of Volzo Mobility, an EV ride-hailing startup we're building for smaller cities in India.
 
-### 🧠 About Me
+I build things end to end. For Volzo I wrote the rider app, the driver app and the admin dashboard myself, including payments, maps and login. Outside of that I work on AI projects, mostly RAG systems, LLM apps and computer vision.
 
-- 🔧 **Founder of Volzo & Volzo Charging**  
-  Bringing smart, clean, and scalable EV mobility to cities across India  
-- ⚡ **Volzo Charging**  
-  Drone-powered, wireless, and **on-demand charging for all EVs** — e-rickshaws, cars, bikes, vans  
-- 🧘 Also working on a unique meditation app with sleep stories, breathing exercises, and streak competitions  
-- 🧠 Always learning: Flutter, AI, EV Tech, Drone Systems, Power Electronics  
+On the side I'm researching drone-powered wireless charging for EVs. It's still R&D, nothing is shipped yet.
 
----
+## What I've built
 
-### 📌 Projects & Interests
+**Quantum Leap** (Smart India Hackathon)
+A platform for learning quantum computing. The AI tutor answers from 76 quantum textbooks using RAG, and circuits run locally on Qiskit instead of needing real quantum hardware. It also has a Bloch sphere built in Three.js, and it can dub YouTube lectures into 10+ Indian languages.
+[Code](https://github.com/saketsumanai/Quantum-Project)
 
-- 🛺 EV Booking Platform: **Volzo App** (MVP in progress)  
-- 🔋 EV Drone Charging Tech: Patent-worthy innovation for **wireless charging on the go**  
-- 🏆 Runner-up at Urjostav by Ministry of Petroleum & RGIPT  
-- 🎯 Accepted into IIM Bangalore NSRCEL program  
-- 🇮🇳 Focused on building EV infrastructure and clean tech across Indian cities
+**Oil & Gas M&A Valuation Platform**
+A FastAPI + React app that values oil and gas acquisitions. It calculates NPV, IRR, payback and ROIC from uploaded production and financial data, and uses Gemini for risk analysis and research.
+[Code](https://github.com/saketsumanai/Finanace-Project)
 
----
+**Handwritten Equation Recognition**
+An OCR model that reads handwritten math and solves it. Won 2nd runner-up at the Kode Kurrent Hackathon.
 
-### 🤝 Let's Connect
+## Tools I use
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saket-suman-morning/)
+Python, JavaScript, Java, C, SQL, React, FastAPI, PostgreSQL, Firebase, Docker, AWS, TensorFlow, PyTorch, OpenCV, Qiskit
 
----
+## Where I've worked
 
-### 📈 GitHub Stats
+- Volzo Mobility: co-founder and developer (2025 to now)
+- Handshake AI: AI trainer (Aug 2026)
+- Deccan AI Experts: physical AI data collection (Jun to Jul 2026)
+- ONGC: winter intern (Dec 2025 to Jan 2026)
 
-<div align="center">
+## Right now
 
-![Saket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saketsumanai&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saketsumanai&layout=compact&theme=radical)
+Getting better at DSA and system design, and learning security.
 
-</div>
+## Reach me
 
----
-
-### 💬 Quote I Live By
-
-> _"The people who are crazy enough to think they can change the world are the ones who do."_  
-> — **Steve Jobs**
-
----
+[LinkedIn](https://www.linkedin.com/in/saket-suman-morning/) · saketsuman.ai.2023@gmail.com
